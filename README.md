@@ -2,7 +2,7 @@
 
 # [拼豆辅助工具](https://altriacarrie.github.io/fuse-bead-tool/)
 
-本程序为辅助拼豆（Fuse Bead）的制作而开发的辅助工具。以网页形式运行，基于HTML5+JS，所有图形算法均在前端实现。
+本程序为辅助拼豆（Fuse Bead）的制作而开发的辅助工具。以网页形式运行，基于HTML5+JS，所有图形算法均在前端实现。  
 更新了mard豆子色号，代码部分全部基于[苏莉安](https://github.com/atonasting)
 
 操作指南：
